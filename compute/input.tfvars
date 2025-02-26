@@ -1,0 +1,7 @@
+credentials_file = "keys.json"
+project_id       = "vishnuplayground"
+region           = "us-central1"
+zone             = "us-central1-a"
+instance_name    = "terraform-instance"
+machine_type     = "e2-medium"
+image            = "debian-cloud/debian-11"
