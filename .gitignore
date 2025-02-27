@@ -4,4 +4,6 @@ bq-sa/keys.json
 *.tfstate.backup
 *.tfvar
 .terraform/providers/
+billing/.terraform/
+ 
 
