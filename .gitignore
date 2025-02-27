@@ -1,1 +1,7 @@
 bq-sa/keys.json
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvar
+.terraform/providers/
+
