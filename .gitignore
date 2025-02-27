@@ -5,5 +5,5 @@ bq-sa/keys.json
 *.tfvar
 .terraform/providers/
 billing/.terraform/
- 
-
+  
+  billing/keys.json
