@@ -7,3 +7,4 @@ bq-sa/keys.json
 billing/.terraform/
   
   billing/keys.json
+  compute_engine/keys.json
